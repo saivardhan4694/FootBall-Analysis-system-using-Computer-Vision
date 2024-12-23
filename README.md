@@ -124,20 +124,6 @@ scikit-learn
 5. Open a Pull Request.
 
 ---
-
-## **License**
-
-[Specify License Here, e.g., MIT, GPLv3]
-
----
-
-## **Contact**
-
-For any questions or suggestions:
-- **Email:** [Your Email Address]
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
-
 ---
 
 This system brings football analysis to a whole new level, blending advanced technologies to provide precise and insightful results. Enjoy building and analyzing!
