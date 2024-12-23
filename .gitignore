@@ -1,0 +1,5 @@
+Data/
+venv/
+yolov8s.pt
+runs/
+models/
